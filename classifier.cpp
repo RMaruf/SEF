@@ -9,3 +9,6 @@ defin train();
 
 printf("train");
 
+define predict();
+
+printf("predict");

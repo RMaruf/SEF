@@ -8,6 +8,7 @@ int data;
 defin train();
 
 printf("train");
+printf("The second feature is added");
 
 define predict();
 
